@@ -1,49 +1,22 @@
-# EEM Paint Color Selection
+## EEM Paint Color Selection
+I want to paint the van. I don't want it to stick out in the landscape when I am camping.  So white is out.
+
+Here are some images of vans with colors I like, as well as some renditions I created:
+
 Table of contents:
 
 1. TOC
 {:toc}
 
-## Basic setup
 
-#Jekyll requires blog post files to be named according to the following format:
-#`YEAR-MONTH-DAY-filename.md`
-#Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
-#The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
+![Cool green van lowered](images/ram van green lowered.jpg)
 
-## Basic formatting
-#You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+![A corvette green and white van](images/2002 dodge ram van corvette green and white.JPG)
 
----
+![Wonderful green colored 1999-Era van](images/20240428_132825.jpg)
 
-## Lists
-#- item 1
-#- item 2
-#And a numbered list:
-#1. item 1
-#1. item 2
+![Laurel green experiment - Rustoleum](images/20240428_132825.jpg)
 
-## Boxes and stuff
+![A more expensive Eastwood Agave Green paint I might have to test](images/eastwood agave green singlestage urethane.JPG)
 
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-## Images
-
-![](/images/logo.png "fast.ai's logo")
-
-## Code
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-## Footnotes
-
-[^1]: This is the footnote.
+[Flat black lowered Van with big wheels](images/ram van big wheels.jpg)
