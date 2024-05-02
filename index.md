@@ -1,11 +1,5 @@
-## Welcome to Dave's blog
+## Dave's Travelog
 
-![Ram Wagon](images/whitevan.jpg)
+![Ram Wagon](images/Van main 20240427.jpg)
 
 All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-Edit the `index.md` file to change this content.
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
