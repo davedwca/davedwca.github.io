@@ -10,6 +10,8 @@ Table of contents:
 1. TOC
 {:toc}
 
+![Dark green van with chrome wheels](/images/Ramvan_2002_dk_green_Chrome.jpg)
+
 ![Cool green van lowered](/images/ram van green lowered.jpg)
 
 ![A corvette green and white van](/images/2002 dodge ram van corvette green and white.JPG)
