@@ -12,14 +12,10 @@ Table of contents:
 
 ![Dark green van with chrome wheels](/images/Ramvan_2002_dk_green_Chrome.jpg)
 
-![Cool green van lowered](/images/ram van green lowered.jpg)
-
-![A corvette green and white van](/images/2002 dodge ram van corvette green and white.JPG)
-
-![Wonderful green colored 1999-Era van](/images/20240428_132825.jpg)
+![Cool green van lowered](/images/ram_van_green_lowered.jpg)
 
 ![Laurel green experiment - Rustoleum](/images/20240428_132825.jpg)
 
-![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood agave green singlestage urethane.JPG)
+![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)
 
-![Flat black lowered Van with big wheels](/images/ram van big wheels.jpg)
+![Flat black lowered Van with big wheels](/images/ram_van_big_wheels.jpg)
