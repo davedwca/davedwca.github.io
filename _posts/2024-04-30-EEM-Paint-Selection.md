@@ -9,16 +9,17 @@ Here are some images of vans with colors I use for inspiration, as well as some 
 
 ![Corvette green and white](/images/dodge_van_corvette_green+white.jpg)
 
-![Cool green van lowered](/images/ram_van_green_lowered.jpg)]
+![Cool green van lowered](/images/ram_van_green_lowered.jpg)
 
 ![Dark green van with chrome wheels](/images/Ramvan_2002_dk_green_Chrome.jpg)
 
-![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)[
+### Paint Color Research
 
+![Laurel green experiment - Rustoleum](/images/Laurel_Green_Rustoleum.png)
+
+![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)[
 
 ![Toyota Tacoma 2023 Era - I Think it is Lunar Rock Color](/images/toyota_2023_lunar_rock.jpg)
 
-![Laurel green experiment - Rustoleum](/images/20240428_132825.jpg)
-
-### Other Ideas
+### Other Inspirations
 ![Flat black lowered Van with big wheels](/images/ram_van_big_wheels.jpg)
