@@ -11,7 +11,7 @@ Here are some images of vans with colors I use for inspiration, as well as some 
 
 ## Is this the color of the *Something Green Van*?:
 
-![Brewster green 1940s Chevrolet](../images/brewster_green.png)
+![Brewster green 1940s Chevrolet](/images/brewster_green.png)
 
 ## This reminded me of a green corvette toy I had when I was a kid:
 ![Corvette green and white](/images/dodge_van_corvette_green+white.jpg)
@@ -27,7 +27,7 @@ Here are some images of vans with colors I use for inspiration, as well as some 
 ## I Found the color name of the green Corvette toy I remember from when I was a kid! :
 
 _1966 Corvette in Mosport green_
-![1966 Corvette in Mosport Green](../images/Mosport_green_1966_corvette.jpg)
+![1966 Corvette in Mosport Green](/images/Mosport_green_1966_corvette.jpg)
 
 ## Laurel Green Rustoleum Paint Experiment
 ![Laurel green experiment - Rustoleum](/images/Laurel_Green_Rustoleum.png)
@@ -36,11 +36,11 @@ _1966 Corvette in Mosport green_
 ![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)
 
 ## A Hotwheels Model SeaFoam Green
-![Hotwheels](../images/dodge_van_hotwheels_seafoam.jpg)
+![Hotwheels](/images/dodge_van_hotwheels_seafoam.jpg)
 
 And here is a color similar to SeaFoam green:
 
-![Seafoam green TCP globabl](../images/transport_green.jpg)
+![Seafoam green TCP globabl](/images/transport_green.jpg)
 
 
 
