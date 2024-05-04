@@ -35,8 +35,14 @@ _1966 Corvette in Mosport green_
 ## Agave Green Eastwood Paint
 ![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)
 
-## A SeaFoam Green
+## A Hotwheels Model SeaFoam Green
+![Hotwheels](../images/dodge_van_hotwheels_seafoam.jpg)
+
+And here is a color similar to SeaFoam green:
+
 ![Seafoam green TCP globabl](../images/transport_green.jpg)
+
+
 
 ## Toyota Tacoma 2023 Era
 ![Toyota Tacoma 2023 Era - I Think it is Lunar Rock Color](/images/toyota_2023_lunar_rock.jpg)
