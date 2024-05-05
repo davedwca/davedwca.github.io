@@ -13,6 +13,10 @@ Here are some images of vans with colors I use for inspiration, as well as some 
 
 ![Brewster green 1940s Chevrolet](/images/brewster_green.png)
 
+## Another Top Example of the Olive Color
+
+![Command Green](/images/command_green_autopainthq.png)
+
 ## This reminded me of a green corvette toy I had when I was a kid:
 ![Corvette green and white](/images/dodge_van_corvette_green+white.jpg)
 
@@ -26,10 +30,12 @@ Here are some images of vans with colors I use for inspiration, as well as some 
 
 ## I Found the color name of the green Corvette toy I remember from when I was a kid! :
 
+However, I don't think the van would look good painted in just this color
 _1966 Corvette in Mosport green_
 ![1966 Corvette in Mosport Green](/images/Mosport_green_1966_corvette.jpg)
 
 ## Laurel Green Rustoleum Paint Experiment
+I sprayed a sample of this color on cardboard, but it is too light
 ![Laurel green experiment - Rustoleum](/images/Laurel_Green_Rustoleum.png)
 
 ## Agave Green Eastwood Paint
@@ -38,13 +44,11 @@ _1966 Corvette in Mosport green_
 ## A Hotwheels Model SeaFoam Green
 ![Hotwheels](/images/dodge_van_hotwheels_seafoam.jpg)
 
-And here is a color similar to SeaFoam green:
-
-![Seafoam green TCP globabl](/images/transport_green.jpg)
-
-
-
 ## Toyota Tacoma 2023 Era
 ![Toyota Tacoma 2023 Era - I Think it is Lunar Rock Color](/images/toyota_2023_lunar_rock.jpg)
 
-### Other Inspirations![Flat black lowered Van with big wheels](/images/ram_van_big_wheels.jpg)
+## Other Inspirations![Flat black lowered Van with big wheels](/images/ram_van_big_wheels.jpg)
+
+## Two Tone Inspiration
+
+![Two Tone Illusion](/images/van_2tone_inspiration.png)
