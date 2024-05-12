@@ -1,9 +1,12 @@
-# EEM Paint Color Selection
+# Van Paint Color Selection
 I want to paint the van so that it looks better, and doesn't stick out in off-road camping areas. 
 
 I have spent hours deciding on and experimenting with color schemes. 
 
-Here are some images of vans with colors I use for inspiration, as well as some renditions I created:
+This page shows some images of vans with colors I use for inspiration:
+
+1. TOC
+{:toc}
 
 ## The __Something Green Van__
 
