@@ -1,6 +1,6 @@
 # Van Color Comparisons
 ## Command Green - Auto Paint HQ
-![Command Green](/images/command_green_2_autopainthq.png) ![Ram van comparison](/images/Van_main_comparison.jpg)
+![Command Green](/images/command_green_satin_autopainthq.png) ![Ram van comparison](/images/Van_main_comparison.jpg)
 ![Something Green Van](/images/1999_Dodge_Van_Something_Green_Facebook.jpg)
 
 ## Nissan Xterra Canteen Green Metallic (2003)
