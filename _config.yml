@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Dave's Excursion Log
-description: ❤
+description: Chronicles of Van and RV Excursion
 #github_username: davedwca
 
 # Email and twitter are optional:
-#email:
+email: davedwca@gmail.com
 #twitter_username:
 
 # Set this to true to get LaTeX math equation support
