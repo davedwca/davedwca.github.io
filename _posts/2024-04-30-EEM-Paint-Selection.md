@@ -47,3 +47,7 @@ Promising, but I found pictures of cars painted this color and it is too light:
 ## Two Tone Inspiration
 
 ![Two Tone Illusion](/images/van_2tone_inspiration.png)
+
+## Experimenting with Paint Mixes
+Mixing quarts of off-the-shelf Rust-Oleum enamel would be an inexpensive solution:
+![Paint blending experiment](/images/van_color_selection/van_paint_mixing_green_20240525.jpg)
