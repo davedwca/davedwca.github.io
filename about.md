@@ -1,4 +1,6 @@
-# About
+# About Daves Excursion Log
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+An internet log of Dave's excursion with van pulling an RV!
+
+![Go to Home](/index.md)
 
