@@ -6,4 +6,4 @@ Here it is after cleaning with acetone and sanding with 400, then 800 grit:
 
 Then coating with automotive clear coat made them like new. I am hopeful they will stay that way!
 
-![Headlamps sprayed with clear coat](/images/headlight_1stage_EPA_clearcoat_202405.jpg)
+![Headlamps sprayed with clear coat](/images/ramvan_exter/headlight_1stage_EPA_clearcoat_202405.jpg)
