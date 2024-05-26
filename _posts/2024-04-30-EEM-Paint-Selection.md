@@ -1,56 +1,48 @@
 # Van Paint Color Selection
-I want to paint the van so that it looks better, and doesn't stick out in off-road camping areas. 
-
-I have spent hours deciding on and experimenting with color schemes. 
+I want to paint the van so that it looks better, and blends with natural colors. 
 
 This page shows some images of vans with colors I use for inspiration:
-
-1. TOC
-{:toc}
 
 ## The __Something Green Van__
 
 ![1999 Something Green Van](/images/1999_Dodge_Van_Something_Green_Facebook.jpg)
-
-## Is this the color of the *Something Green Van*?:
-
-![Brewster green 1940s Chevrolet](/images/brewster_green.png)
+Some sort of olive / army green
 
 ## Another Top Example of the Olive Color
 
 ![Command Green](/images/command_green_autopainthq.png)
 
-## This reminded me of a green corvette toy I had when I was a kid:
+## Corvette Toy Green and White
 ![Corvette green and white](/images/dodge_van_corvette_green+white.jpg)
 
 ## Cool Green Van - lowered:
-
 ![Cool green van lowered](/images/ram_van_green_lowered.jpg)
 
 ## Dark Green Van:
-
 ![Dark green van with chrome wheels](/images/Ramvan_2002_dk_green_Chrome.jpg)
 
-## I Found the color name of the green Corvette toy I remember from when I was a kid! :
+## Mosport Green Corvette
+I remember this color from a Corvette toy I had when I was a kid. However, I don't think the van would look good painted in just this color
 
-However, I don't think the van would look good painted in just this color
-_1966 Corvette in Mosport green_
 ![1966 Corvette in Mosport Green](/images/Mosport_green_1966_corvette.jpg)
+_1966 Corvette in Mosport green_
 
 ## Laurel Green Rustoleum Paint Experiment
+
 I sprayed a sample of this color on cardboard, but it is too light
 ![Laurel green experiment - Rustoleum](/images/Laurel_Green_Rustoleum.png)
 
 ## Agave Green Eastwood Paint
+
+Promising, but I found pictures of cars painted this color and it is too light:
 ![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)
 
 ## A Hotwheels Model SeaFoam Green
 ![Hotwheels](/images/dodge_van_hotwheels_seafoam.jpg)
 
-## Toyota Tacoma 2023 Era
-![Toyota Tacoma 2023 Era - I Think it is Lunar Rock Color](/images/toyota_2023_lunar_rock.jpg)
+## Other Inspirations
 
-## Other Inspirations![Flat black lowered Van with big wheels](/images/ram_van_big_wheels.jpg)
+![Flat black lowered Van with big wheels](/images/ram_van_big_wheels.jpg)
 
 ## Two Tone Inspiration
 
