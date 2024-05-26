@@ -1,12 +1,11 @@
 # Van Paint Color Selection
-I want to paint the van so that it looks better, and blends with natural colors. 
+On this page, I put the original van next to some colors.  Can you project what the color would look like on my van?
 
-This page shows some images of vans with colors I use for inspiration:
+I want to paint the van so that it looks better, with an earth color so it blends in to the countryside. 
 
 ## The __Something Green Van__
-
+This is my favorite so far, but I don't know the color code or have a way to order it
 ![1999 Something Green Van](/images/1999_Dodge_Van_Something_Green_Facebook.jpg)
-Some sort of olive / army green
 
 ## Another Top Example of the Olive Color
 
@@ -25,16 +24,19 @@ Some sort of olive / army green
 I remember this color from a Corvette toy I had when I was a kid. However, I don't think the van would look good painted in just this color
 
 ![1966 Corvette in Mosport Green](/images/Mosport_green_1966_corvette.jpg)
+
 _1966 Corvette in Mosport green_
 
 ## Laurel Green Rustoleum Paint Experiment
 
 I sprayed a sample of this color on cardboard, but it is too light
+
 ![Laurel green experiment - Rustoleum](/images/Laurel_Green_Rustoleum.png)
 
 ## Agave Green Eastwood Paint
 
-Promising, but I found pictures of cars painted this color and it is too light:
+Promising, but I found pictures of cars painted this color and it looks mundane:
+
 ![A more expensive Eastwood Agave Green paint I might have to test](/images/eastwood_agave_green_singlestage.jpg)
 
 ## A Hotwheels Model SeaFoam Green
